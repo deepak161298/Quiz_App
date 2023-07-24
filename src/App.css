@@ -1,0 +1,92 @@
+body{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h2{
+  color: #fff;
+  padding: 20px;
+}
+
+
+
+.form-card{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  min-height: 50vh;
+  border-radius: 20px;
+  background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+  
+}
+
+.form-box{
+  border-color: #fff;
+}
+
+
+.input-name{
+  border:2px solid #fff !important; 
+}
+
+.input-txt{
+  color: #fff !important;
+  -webkit-text-fill-color: #fff !important;
+}
+
+.input-txt::placeholder{
+  color: #fff !important;
+  -webkit-text-fill-color: #fff !important;
+}
+
+.input-txt::selection{
+  color: #fff !important;
+  -webkit-text-fill-color: #fff !important;
+}
+
+.MuiSvgIcon-fontSizeMedium{
+  fill:"#fff" !important;
+color: #fff !important;
+}
+
+h5,h4,h6{
+  color: #fff !important;
+}
+
+.result{
+  color: #000 !important;
+}
+.css-gtx69g-MuiContainer-root,
+.css-1kwywab-MuiGrid-root,
+.css-1kwywab-MuiGrid-root{
+  border: none !important;
+  box-shadow: none !important;
+}
+
+h3,.qust{
+  font-size: 1.3rem !important;
+
+}
+
+.css-1sir9cm-MuiPaper-root{
+  background: none !important;
+  box-shadow: none !important;
+}
+
+
+.admin-card{
+  background: rgba( 255, 255, 255, 0.45 ) !important;
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ) !important;
+  backdrop-filter: blur( 3px ) !important;
+  -webkit-backdrop-filter: blur( 3px ) !important;
+  border-radius: 10px !important;
+  border: 1px solid rgba( 255, 255, 255, 0.18 ) !important;
+  
+}
